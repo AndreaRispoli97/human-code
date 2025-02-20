@@ -18,38 +18,19 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
 - Vado in cucina davanti al frigorifero
    - Apro il frigorifero
      - Guardo quali alimenti mancano e cosa potrebbe servirmi
-     - Inizio a segnarmi vari alimenti
-       - Insalata
-       - Petto di Pollo
-       - Yogurt
-       - Merluzzo
-       - Bevande
-       - Formaggio
-       - Affettati
-       - Verdure Varie
+     - Inizio a segnarmi i vari alimenti sulla lista
      - Chiudo il frigorifero
 - Vado nella zona dispensa con la lista
   - Apro la dispensa e analizzo cosa mi manca
-    - Inizio ad aggiungere alla lista i vari prodotti
-      - Biscotti per la colazione
-      - Patatine
-      - Spezie di vario genere
+    - Inizio ad aggiungere alla lista i vari prodotti tra cui le crocchette di Ricky
   - Chiudo la dispensa e metto la lista in tasca
 - Mi preparo per uscire
-  - Passo per la cucina e prendo il coupon per la spesa che metto nel portafogli
-  - Saluto Ricky
-    - Mi ricordo delle crocchette
-    - Riprendo la lista
-    - Segno le crocchette
-    - Poso la lista in tasca
-  - Metto le scarpe
-- Apro la porta
+  - Passo per la cucina e prendo il coupon per la spesa che metto nel portafoglio
   - Esco
-  - Chiudo la porta
+
 
 **Vado al Supermercato**
 
-- Scendo le scale
 - Esco dal palazzo
   - SE non ho voglia di camminare
     - Prendo la macchina
@@ -97,8 +78,7 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
       - SE non ho una busta
         - La chiedo
   - Esco
-  - Mi dirigo alla macchina
-  - Carico la macchina e torno a casa
+  - Torno a casa
 
 
 
@@ -117,13 +97,20 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
 - Sto cercando una pratica
   - SE non la trovo
     - Continuo a cercarla
-  - SE la trovo
-    - Buon per me
 - Mi rendo conto che l'ufficio è pieno di fogli volanti
-- Mi alzo
-- Li raccolgo tutti
 - Decido di scansionarli per archiviarli in versione digitale
-  - Mi 
+  - Collego il computer allo scanner
+    - SE tutto funziona
+      - Procedo a scansionare tutte le pratiche fronte-retro 1 a 1
+    - SE non funziona
+      - Cerco di capire qual'è il problema e risolverlo
+  - Controllo il risultato
+    - SE sono soddisfatto
+      - Scollego lo scanner
+    - SE non sono soddisfatto
+      - Ripeto il procedimento
+  - Creo una cartella sul computer
+  - Salvo tutte le pratiche scansionate nella cartella
 
 
 
