@@ -47,7 +47,26 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
   - Esco
   - Chiudo la porta
 
-***Vado al Supermercato (Altro Problemone)***
+**Vado al Supermercato**
+
+- Scendo le scale
+- Esco dal palazzo
+  - SE non ho voglia di camminare
+    - Prendo la macchina
+  - SE ho voglia di camminare
+    - Vado a piedi
+- Metto in moto
+- Mi avvio sulla strada del supermercato più vicino
+  - SE c'è traffico
+    - Cambio supermercato
+  - SE non c'è traffico
+    - Vado tranquillo per la mia strada
+- Arrivo nel parcheggio
+  - SE c'è posto
+    - Che bello
+  - SE non c'è posto
+    - Cerco parcheggio altrove
+- Parcheggio la macchina
 
 
 **Supermercato**
