@@ -96,6 +96,37 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
         - Inizio a metterli dentro e sistemarli
       - SE non ho una busta
         - La chiedo
+  - Esco
+  - Mi dirigo alla macchina
+  - Carico la macchina e torno a casa
+
+
+
+  ___
+
+  ## Problema n.2 Scansionare un documento su più fogli fronte-retro
+
+Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2025 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!
+
+### Soluzione
+
+**Partenza Ufficio**
+---
+
+- Sono seduto alla scrivania
+- Sto cercando una pratica
+  - SE non la trovo
+    - Continuo a cercarla
+  - SE la trovo
+    - Buon per me
+- Mi rendo conto che l'ufficio è pieno di fogli volanti
+- Mi alzo
+- Li raccolgo tutti
+- Decido di scansionarli per archiviarli in versione digitale
+  - Mi 
+
+
+
         
 
 
